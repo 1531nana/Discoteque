@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "RyXtgFukAUhYSAi9BM8Md2vuqwspDkr4AXZ8NR5Yvs5HRhxx4Umc5QQzH+2SSt+O7t7c43pmOUt7f2D2nMIz6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lgira\\dev\\bootcampNET\\Discoteque\\Discoteque.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lgira\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.8\\microsoft.aspnetcore.openapi.7.0.8.nupkg.sha512",
+    "C:\\Users\\lgira\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\lgira\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\lgira\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\lgira\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\lgira\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\lgira\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
